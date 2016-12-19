@@ -1,3 +1,5 @@
+'use strict';
+
 jQuery.fn.roulette = function (settings) {
     var config = {
         speed: 750
